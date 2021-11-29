@@ -1,0 +1,2 @@
+# Installer-Please-Dont-Close
+PLEASE DON'T CLOSE THIS REPOSITORY GITHUB.
